@@ -27,11 +27,18 @@
 
 ## 📱 프로토 타입 
 <div align="center">
-  <img src="/images/intro_screen.png" width="150" alt="Image 1" />
+  <img src="/images/00alarm_talk_intro.png" width="200" alt="Image 1" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/images/filter_screen.png" width="150" alt="Image 2" />
+  <img src="/images/01alarm_talk_home.png" width="200" alt="Image 2" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/images/filter_screen_selected.png" width="150" alt="Image 3" />
+  <img src="/images/02alarm_talk_my.png" width="200" alt="Image 3" />
+</div>
+<div align="center">
+  <img src="/images/03alarm_talk_chat.png" width="200" alt="Image 1" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/images/04alarm_talk_filter.png" width="200" alt="Image 2" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/images/05alarm_talk_create-1.png" width="200" alt="Image 3" />
 </div>
 
 <br>
@@ -49,7 +56,6 @@
 <br>
 
 ## 😎 프로젝트 팀원
-<div>
   <table>
     <tr>
       <td><img align=center src="/images/profile.jpg" width="100" height="100" alt="프로필 이미지"></td>
@@ -62,8 +68,6 @@
       </td>
     </tr>
   </table>
-</div>
-<div>
   <table>
     <tr>
       <td><img align=center src="/images/profile.jpg" width="100" height="100" alt="프로필 이미지"></td>
@@ -76,4 +80,16 @@
       </td>
     </tr>
   </table>
-</div>
+    <table>
+    <tr>
+      <td><img align=center src="/images/profile.jpg" width="100" height="100" alt="프로필 이미지"></td>
+      <td>
+        <a href="https://github.com/flow2c">
+          <sub<b><span style='font-size:120%'>Loti</span></b></sub>
+        </a>
+        <br />
+        <sub>채팅방 생성, 필터 화면 및 기능 구현<br>UI 디자인 및 구현</sub>
+      </td>
+    </tr>
+  </table>
+
