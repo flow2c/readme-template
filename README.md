@@ -5,7 +5,7 @@
     <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
     <div align="center">
         <img src="https://img.shields.io/badge/-개발 기간-FF7F50?logoColor=white"/>
-        <img src="https://img.shields.io/badge/2024.10.2 ~ 2024.10.18-F5F5F5?style=flat&labelColor=F5F5F5"/>
+        <img src="https://img.shields.io/badge/2024.10.2 ~ 2024.10.18-F5F5F5?style=flat&labelColor=FFF5F5"/>
     </div>
 </div>
 
@@ -31,3 +31,19 @@
     <img src="/images/filter_screen.png" alt="Image 2" style="width: 150px;">
     <img src="/images/filter_screen_selected.png" alt="Image 3" style="width: 150px;">
 </div>
+
+<br>
+
+## ⚙️ 사용한 기술 스택
+
+<br>
+
+## 🏗️ 프로젝트 아키텍쳐
+
+<br>
+
+## 🚩 기술적 이슈와 해결 과정
+
+<br>
+
+## 😄 프로젝트 팀원
