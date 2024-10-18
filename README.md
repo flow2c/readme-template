@@ -1,6 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6684F3&height=280&section=header&text=project%20title&fontSize=80&fontColor=ffffff)
 
-<div align='center' style="height:25px"><img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'></div>
+
+<div style="display: flex; justify-content: center; align-items: center;flex-direction: column;">
+    <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
+    <div style="margin-top: 10px">
+        <div style="background-color: #FF7F50; display: inline-block; padding: 2px 6px; border-radius: 3px; color: white; font-weight: bold;">
+            개발 기간
+        </div>
+        <span style="font-size: 16px; margin-left: 10px;">2024.10.2 ~ 2024.10.18</span>
+    </div>
+</div>
 
 
 ## 📃 목차 
@@ -12,12 +21,10 @@
 - <span style='font-size:130%'>프로젝트 팀원</span>
 
 <br>
-<br>
 
 ## 😎 프로젝트 소개
 <span style='font-size:130%'>"이 프로젝트에 대한 간략한 설명을 작성할 수 있습니다."</span>
 
-<br>
 <br>
 
 ## 📱 프로토 타입 
