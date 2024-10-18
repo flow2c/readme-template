@@ -7,7 +7,6 @@
       <img src='https://img.shields.io/badge/dart-%230175C2.svg?&logoColor=white'>
       <img src='https://img.shields.io/badge/node.js-6DA55F?&logoColor=white'>
       <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?&logoColor=white'>
-      <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?&logoColor=white'>
       <img src='https://img.shields.io/badge/Postman-FF6C37?&logoColor=white'>
       <img src='https://img.shields.io/badge/postgres-%23316192.svg?&logoColor=white'>
     </div>
