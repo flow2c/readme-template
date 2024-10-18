@@ -55,7 +55,7 @@
       <td><img src="/images/profile.jpg" width="100" height="100" alt="프로필 이미지"></td>
       <td>
         <a href="https://github.com/flow2c">
-          <sub><b>신가연</b></sub>
+          <sub><b>Loti</b></sub>
         </a>
         <br />
         <sub>채팅방 생성, 필터 화면 및 기능 구현<br>UI 디자인 및 구현</sub>
