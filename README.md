@@ -49,3 +49,17 @@
 <br>
 
 ## 😎 프로젝트 팀원
+<div>
+  <table>
+    <tr>
+      <td><img src="profile-image-url.png" width="100" height="100" style="border-radius: 50%;" alt="프로필 이미지"></td>
+      <td>
+        <a href="https://github.com/flow2c">
+          <sub><b>신가연</b></sub>
+        </a>
+        <br />
+        <sub>채팅방 생성, 필터 화면 및 기능 구현<br>UI 디자인 및 구현</sub>
+      </td>
+    </tr>
+  </table>
+</div>
