@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6684F3&height=300&section=header&text=project%20title&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6684F3&height=280&section=header&text=project%20title&fontSize=80&fontColor=ffffff)
 
 <div align='center'><img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'></div>
 
