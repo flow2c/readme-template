@@ -52,7 +52,7 @@
 <div>
   <table>
     <tr>
-      <td><img src="/images/profile.jpg" width="100" height="100" alt="프로필 이미지"></td>
+      <td><img align=center src="/images/profile.jpg" width="100" height="100" alt="프로필 이미지"></td>
       <td>
         <a href="https://github.com/flow2c">
           <sub<b><span style='font-size:120%'>Loti</span></b></sub>
