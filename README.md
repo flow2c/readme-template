@@ -3,11 +3,9 @@
 
 <div align=center style="display: flex; justify-content: center; align-items: center;flex-direction: column;">
     <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
-    <div style="margin-top: 10px">
-        <div style="background-color: #FF7F50; display: inline-block; padding: 2px 6px; border-radius: 3px; color: white; font-weight: bold;">
-            개발 기간
-        </div>
-        <span style="font-size: 16px; margin-left: 10px;">2024.10.2 ~ 2024.10.18</span>
+    <div align="center">
+        <img src="https://img.shields.io/badge/개발 기간-FF7F50?style=flat-square"/>
+        &nbsp;2024.10.2 ~ 2024.10.18
     </div>
 </div>
 
