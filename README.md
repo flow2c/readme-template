@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6684F3&height=280&section=header&text=project%20title&fontSize=80&fontColor=ffffff)
 
 
-<div style="display: flex; justify-content: center; align-items: center;flex-direction: column;">
+<div align=center style="display: flex; justify-content: center; align-items: center;flex-direction: column;">
     <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
     <div style="margin-top: 10px">
         <div style="background-color: #FF7F50; display: inline-block; padding: 2px 6px; border-radius: 3px; color: white; font-weight: bold;">
