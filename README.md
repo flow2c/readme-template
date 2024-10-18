@@ -24,5 +24,5 @@
 <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="/images/intro_screen.png" alt="Image 1" style="width: 150px;">
     <img src="/images/filter_screen.png" alt="Image 2" style="width: 150px;">
-    <img src="/images/filter_screen_selected.png.jpg" alt="Image 3" style="width: 150px;">
+    <img src="/images/filter_screen_selected.png" alt="Image 3" style="width: 150px;">
 </div>
